@@ -6,7 +6,7 @@
 
 ### About Me
 
-- Final-year student with a strong interest in **Java Development**, **Database Management**, and **Full-Stack Web Development**.
+- A graduate with a strong interest in **Java Development**, **Database Management**, and **Full-Stack Web Development**.
 - Quick learner who loves to build projects that solve real-life problems.
 - Currently improving my coding skills and building personal projects using Java, SQL, HTML/CSS, and Python (basics).
 - Open to internships and entry-level roles in software development.
